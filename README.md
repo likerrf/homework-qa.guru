@@ -1,3 +1,3 @@
 # homework-qa.guru
 
-Приветик!!
+Hello!
