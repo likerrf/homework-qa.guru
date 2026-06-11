@@ -1,3 +1,2 @@
 # homework-qa.guru
-
-Hello!
+Hello QA.GURU!
